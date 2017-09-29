@@ -1,0 +1,622 @@
+Serial Number,Student Name,Standard Name,Section Name,School Name,Date of Birth,Gender,Blood Group,Mobile,Email
+1,UCHIT,Pre-KG,A,CBSE School,3/2/2014,male,A+,1111111111,uchit@cbseschool.com
+2,ANITHAA H,Pre-KG,A,Demo School,3/1/2014,female,A1B+,1111111111,anithaa.h@demoschool.com
+3,ANJAN SUHAS,Pre-KG,A,Trial School,5/2/2014,male,A1+,1111111111,anjan.suhas@trialschool.com
+4,ANJANA J,Pre-KG,A,CBSE School,5/3/2014,female,B1+,1111111111,anjana.j@cbseschool.com
+5,ANKITA JAIN,Pre-KG,A,Trial School,2/4/2014,female,A1B-,1111111111,ankita.jain@trialschool.com
+6,ANKITHA M,Pre-KG,A,Trial School,1/3/2014,female,B2+,1111111111,ankitha.m@trialschool.com
+7,ANNAMALAI VISHWANATH M,Pre-KG,A,Model School,12/12/2013,male,B2+,1111111111,ankitha.m@modelschool.com
+8,ANNAPOORNA T,Pre-KG,A,Trial School,6/2/2014,female,AB+,1111111111,annapoorna.t@trialschool.com
+9,ANUGRAHA S M,Pre-KG,A,Trial School,1/7/2014,female,B+,1111111111,anugraha.s.m@trialschool.com
+10,ANUPRIYA A,Pre-KG,A,Model School,8/8/2014,female,O+,1111111111,anugraha.s.m@modelschool.com
+11,BHARATH T,Pre-KG,A,Model School,1/9/2014,male,A2B+,1111111111,anupriya.a@modelschool.com
+12,CHITHALA REDDY,Pre-KG,A,Trial School,6/2/2014,male,A1B+,1111111111,chithala.reddy@trialschool.com
+13,KAMALA,Pre-KG,A,Model School,1/7/2014,female,O+,1111111111,chithala.reddy@modelschool.com
+14,MONICA P,Pre-KG,A,CBSE School,6/2/2014,female,B1-,1111111111,monica.p@cbseschool.com
+15,NAIR ADITYA,Pre-KG,A,CBSE School,3/2/2014,male,B1-,1111111111,nair.aditya@cbseschool.com
+16,NAUTHAM,Pre-KG,A,Trial School,1/3/2014,male,A+,1111111111,nautham@trialschool.com
+17,PREMAN SRUTHI SRI,Pre-KG,A,Model School,3/9/2014,female,AB2+,1111111111,nautham@modelschool.com
+18,PRIADARSHNI A,Pre-KG,A,Model School,4/11/2014,female,A2B+,1111111111,preman.sruthi.sri@modelschool.com
+19,PRITHVI SAI R,Pre-KG,A,Trial School,3/8/2014,male,A1B-,1111111111,prithvi.sai.r@trialschool.com
+20,PRIYA HARI B,Pre-KG,A,Demo School,1/3/2014,female,AB2+,1111111111,priya.hari.b@demoschool.com
+21,ANAND ABHAY P,Pre-KG,B,CBSE School,4/2/2013,male,A2+,1111111111,anand.abhay.p@cbseschool.com
+22,ANJANA J,Pre-KG,B,Trial School,7/5/2013,female,A1-,1111111111,anjana.j@trialschool.com
+23,DRAVIDA S R,Pre-KG,B,Model School,5/9/2013,male,AB+,1111111111,anjana.j@modelschool.com
+24,GUPTA AAYUSH,Pre-KG,B,CBSE School,12/11/2013,male,AB-,1111111111,gupta.aayush@cbseschool.com
+25,HUBERT HYACINTH ANGELA,Pre-KG,B,Demo School,4/8/2013,male,A-,1111111111,hubert.hyacinth.angela@demoschool.com
+26,HUSSAIN AMEENUDDIN A,Pre-KG,B,Demo School,2/9/2013,male,AB+,1111111111,hussain.ameenuddin.a@demoschool.com
+27,JEYACHANDRAN PRANAV,Pre-KG,B,Demo School,4/2/2013,male,A2+,1111111111,jeyachandran.pranav@demoschool.com
+28,KRISHNAN,Pre-KG,B,Demo School,7/5/2013,male,B1+,1111111111,krishnan@demoschool.com
+29,LEELA KRISHNAN,Pre-KG,B,Model School,5/9/2013,male,B+,1111111111,krishnan@modelschool.com
+30,LISHRAM SINGH,Pre-KG,B,Demo School,12/11/2013,male,A2B-,1111111111,lishram.singh@demoschool.com
+31,LOGANATHAN,Pre-KG,B,Trial School,4/8/2013,male,O-,1111111111,loganathan@trialschool.com
+32,LOKPRAKASH,Pre-KG,B,Model School,2/9/2013,male,B-,1111111111,loganathan@modelschool.com
+33,MADDY SAMI,Pre-KG,B,CBSE School,4/2/2013,male,O-,1111111111,maddy.sami@cbseschool.com
+34,MOHANTY ROHAN,Pre-KG,B,Model School,7/5/2013,male,B1-,1111111111,maddy.sami@modelschool.com
+35,MOHITH G,Pre-KG,B,Demo School,5/9/2013,male,A2B-,1111111111,mohith.g@demoschool.com
+36,MOHUN GAUTHAM,Pre-KG,B,Model School,12/11/2013,male,O-,1111111111,mohith.g@modelschool.com
+37,MONICA CHRISTINA JULIET,Pre-KG,B,Demo School,4/8/2013,female,A1B+,1111111111,monica.christina.juliet@demoschool.com
+38,MONICA K,Pre-KG,B,CBSE School,2/9/2013,female,A2B+,1111111111,monica.k@cbseschool.com
+39,MONISHA S,Pre-KG,B,Model School,2/20/2013,female,A-,1111111111,monica.k@modelschool.com
+40,MOORTHY S RAGHAV,Pre-KG,B,Demo School,6/2/2013,male,A2B-,1111111111,moorthy.s.raghav@demoschool.com
+41,ARCHANA B,LKG,A,Demo School,5/9/2012,female,AB+,1111111111,archana.b@demoschool.com
+42,ARVIND P,LKG,A,Trial School,12/11/2012,male,B1-,1111111111,arvind.p@trialschool.com
+43,ASHIRWADH VIJITH G,LKG,A,CBSE School,4/8/2012,male,AB1+,1111111111,ashirwadh.vijith.g@cbseschool.com
+44,BHERWANI G CHAITANYA,LKG,A,CBSE School,2/9/2012,male,B+,1111111111,bherwani.g.chaitanya@cbseschool.com
+45,BHUVANESWARI REVATHI,LKG,A,Demo School,4/2/2012,female,A1B-,1111111111,bhuvaneswari.revathi@demoschool.com
+46,CHAKKARAVARTHI M,LKG,A,Trial School,7/5/2012,male,A2B-,1111111111,chakkaravarthi.m@trialschool.com
+47,DOSHI A JEENAL,LKG,A,Demo School,5/9/2012,female,A1B-,1111111111,doshi.a.jeenal@demoschool.com
+48,DRAVIDA S,LKG,A,Model School,12/11/2012,male,B1-,1111111111,doshi.a.jeenal@modelschool.com
+49,DUGGIRALA SAHAS,LKG,A,CBSE School,4/8/2012,male,O-,1111111111,duggirala.sahas@cbseschool.com
+50,DUTTA ROHAN,LKG,A,Model School,2/9/2012,male,A2B+,1111111111,duggirala.sahas@modelschool.com
+51,ELAKKIYA A,LKG,A,Trial School,4/2/2012,female,A2B+,1111111111,elakkiya.a@trialschool.com
+52,GUPTA PRASHANSHA,LKG,A,Trial School,7/5/2012,male,B-,1111111111,gupta.prashansha@trialschool.com
+53,HEMALATHA A,LKG,A,Trial School,5/9/2012,female,AB2+,1111111111,hemalatha.a@trialschool.com
+54,HEMANTH REDDY,LKG,A,CBSE School,12/11/2012,male,B+,1111111111,hemanth.reddy@cbseschool.com
+55,HOWARD DAVID,LKG,A,CBSE School,4/8/2012,male,A+,1111111111,howard.david@cbseschool.com
+56,HUBERT HYACINTH ANGELA,LKG,A,Demo School,2/9/2012,male,O+,1111111111,hubert.hyacinth.angela@demoschool.com
+57,JOY JOSHI,LKG,A,Trial School,2/20/2012,female,B1+,1111111111,joy.joshi@trialschool.com
+58,KRISHNAN K VIGNESH,LKG,A,Model School,6/2/2012,male,A1B-,1111111111,joy.joshi@modelschool.com
+59,MITANSHI,LKG,A,CBSE School,5/14/2012,female,O+,1111111111,mitanshi@cbseschool.com
+60,REVANTH REDDY,LKG,A,Model School,3/18/2012,male,B-,1111111111,mitanshi@modelschool.com
+61,ANOOP VISHAL,LKG,B,CBSE School,5/9/2011,male,B1-,1111111111,anoop.vishal@cbseschool.com
+62,KARTHIK NITHIN,LKG,B,CBSE School,12/11/2011,male,AB-,1111111111,karthik.nithin@cbseschool.com
+63,KRISHNAN S,LKG,B,Demo School,4/8/2011,male,B1+,1111111111,krishnan.s@demoschool.com
+64,LAVYA MEGHANA,LKG,B,Trial School,2/9/2011,female,AB+,1111111111,lavya.meghana@trialschool.com
+65,NOMIKA GAYATHRI,LKG,B,Demo School,4/2/2011,female,B-,1111111111,nomika.gayathri@demoschool.com
+66,PRIYA SHANMUGA A,LKG,B,CBSE School,7/5/2011,female,B2+,1111111111,priya.shanmuga.a@cbseschool.com
+67,PRIYANKA B,LKG,B,Trial School,5/9/2011,female,AB1+,1111111111,priyanka.b@trialschool.com
+68,PURKAIT T SUNITHA,LKG,B,Trial School,12/11/2011,female,B+,1111111111,purkait.t.sunitha@trialschool.com
+69,RISHOB P,LKG,B,CBSE School,4/8/2011,male,B-,1111111111,rishob.p@cbseschool.com
+70,RM PRIYA CHELLA,LKG,B,Model School,2/9/2011,female,O-,1111111111,rishob.p@modelschool.com
+71,ROONWAL S MUKUND,LKG,B,CBSE School,4/2/2011,male,AB1+,1111111111,roonwal.s.mukund@cbseschool.com
+72,ROSE R JENIFER,LKG,B,CBSE School,7/5/2011,female,A2+,1111111111,rose.r.jenifer@cbseschool.com
+73,ROSHAN SUHIL M,LKG,B,Model School,5/9/2011,male,B-,1111111111,rose.r.jenifer@modelschool.com
+74,ROSHNI VELLAISAMY,LKG,B,Trial School,12/11/2011,female,A1B-,1111111111,roshni.vellaisamy@trialschool.com
+75,RUPESH C M,LKG,B,Demo School,4/8/2011,male,A2+,1111111111,rupesh.c.m@demoschool.com
+76,SANA,LKG,B,Demo School,2/9/2011,female,B1-,1111111111,sana@demoschool.com
+77,SUJIN STUART M,LKG,B,CBSE School,2/20/2011,male,A1B+,1111111111,sujin.stuart.m@cbseschool.com
+78,SUKHADIA Z DHYANESH,LKG,B,Trial School,6/2/2011,male,B1-,1111111111,sukhadia.z.dhyanesh@trialschool.com
+79,SUNDAR JEYNTH,LKG,B,Model School,5/14/2011,male,A-,1111111111,sukhadia.z.dhyanesh@modelschool.com
+80,ZUBBIN MADHAN,LKG,B,Model School,3/18/2011,male,AB+,1111111111,sundar.jeynth@modelschool.com
+81,AHMED FARHAN M,UKG,A,Trial School,5/9/2010,male,A2B+,1111111111,ahmed.farhan.m@trialschool.com
+82,AVINASH A,UKG,A,Trial School,12/11/2010,male,B2+,1111111111,avinash.a@trialschool.com
+83,AYSHWARYA M,UKG,A,Demo School,4/8/2010,female,AB1+,1111111111,ayshwarya.m@demoschool.com
+84,BRAHADHEESWARAN T T,UKG,A,CBSE School,2/9/2010,male,B1+,1111111111,brahadheeswaran.t.t@cbseschool.com
+85,DIWAKAR PRANAV,UKG,A,CBSE School,4/2/2010,male,A2B-,1111111111,diwakar.pranav@cbseschool.com
+86,HARISH K,UKG,A,Demo School,7/5/2010,male,A2-,1111111111,harish.k@demoschool.com
+87,JAYARAMAN HARINI,UKG,A,CBSE School,5/9/2010,male,A2-,1111111111,jayaraman.harini@cbseschool.com
+88,JECINTHA V,UKG,A,Model School,12/11/2010,female,A1-,1111111111,jayaraman.harini@modelschool.com
+89,JITANI M SHUBHAM,UKG,A,Model School,4/8/2010,female,A1-,1111111111,jecintha.v@modelschool.com
+90,JITHIN S C,UKG,A,CBSE School,2/9/2010,male,A2-,1111111111,jithin.s.c@cbseschool.com
+91,KAMAL,UKG,A,Trial School,4/2/2010,male,A2-,1111111111,kamal@trialschool.com
+92,KRITHIKA S,UKG,A,Demo School,7/5/2010,female,B+,1111111111,krithika.s@demoschool.com
+93,LAKSHAYA PATEL,UKG,A,Trial School,5/9/2010,male,A2B-,1111111111,lakshaya.patel@trialschool.com
+94,LALITHA,UKG,A,Trial School,12/11/2010,female,AB2+,1111111111,lalitha@trialschool.com
+95,MANALI KHANNA,UKG,A,Demo School,4/8/2010,male,A-,1111111111,manali.khanna@demoschool.com
+96,N ADITYA AJIT,UKG,A,Trial School,2/9/2010,male,A-,1111111111,n.aditya.ajit@trialschool.com
+97,N NAVEEN,UKG,A,Model School,2/20/2010,male,AB+,1111111111,n.aditya.ajit@modelschool.com
+98,N S KAYALVIZHI,UKG,A,CBSE School,6/2/2010,female,A2B-,1111111111,n.s.kayalvizhi@cbseschool.com
+99,POOJA,UKG,A,CBSE School,5/14/2010,female,AB+,1111111111,pooja@cbseschool.com
+100,PRASANTH PITHANISETTY,UKG,A,Trial School,3/18/2010,male,A1B-,1111111111,prasanth.pithanisetty@trialschool.com
+101,YAMINI,UKG,B,Model School,5/9/2009,female,B1-,1111111111,prasanth.pithanisetty@modelschool.com
+102,ASHWIN R,UKG,B,CBSE School,12/11/2009,male,B+,1111111111,ashwin.r@cbseschool.com
+103,DAHRE NONEET,UKG,B,Demo School,4/8/2009,male,A2B-,1111111111,dahre.noneet@demoschool.com
+104,DEEPAK Y,UKG,B,CBSE School,2/9/2009,male,A+,1111111111,deepak.y@cbseschool.com
+105,DEEPIKA S,UKG,B,CBSE School,4/2/2009,female,B2+,1111111111,deepika.s@cbseschool.com
+106,DIWAKAR PRANAV,UKG,B,Model School,7/5/2009,male,O+,1111111111,deepika.s@modelschool.com
+107,DUBEY ANSHU,UKG,B,CBSE School,5/9/2009,male,B1+,1111111111,dubey.anshu@cbseschool.com
+108,KRISHNA VAMSI MULA,UKG,B,Model School,12/11/2009,male,B-,1111111111,dubey.anshu@modelschool.com
+109,MENON R DEEPAK,UKG,B,Model School,4/8/2009,male,A2B+,1111111111,krishna.vamsi.mula@modelschool.com
+110,MUNAGALA AUROBINDO SRI,UKG,B,CBSE School,2/9/2009,male,A1+,1111111111,munagala.aurobindo.sri@cbseschool.com
+111,PRASATH HARI M,UKG,B,Model School,4/2/2009,male,A1B+,1111111111,munagala.aurobindo.sri@modelschool.com
+112,RENGARAJ NANDHINI,UKG,B,Demo School,7/5/2009,male,O+,1111111111,rengaraj.nandhini@demoschool.com
+113,RESHMA,UKG,B,Demo School,5/9/2009,female,AB-,1111111111,reshma@demoschool.com
+114,RUSTAGI PRATHAM,UKG,B,Model School,12/11/2009,male,A2+,1111111111,reshma@modelschool.com
+115,SRIDHAR SANJANA,UKG,B,Model School,4/8/2009,male,A-,1111111111,rustagi.pratham@modelschool.com
+116,SRIDHAR SREEKRISHNA,UKG,B,Trial School,2/9/2009,male,A1B+,1111111111,sridhar.sreekrishna@trialschool.com
+117,SRIKANTH DIVYA,UKG,B,Trial School,2/20/2009,male,A1+,1111111111,srikanth.divya@trialschool.com
+118,SUBRAMANIAN V,UKG,B,CBSE School,6/2/2009,male,A2-,1111111111,subramanian.v@cbseschool.com
+119,SWEETY CAROLINE N,UKG,B,Demo School,5/14/2009,female,A2B+,1111111111,sweety.caroline.n@demoschool.com
+120,VAIDHYA S,UKG,B,Model School,3/18/2009,female,A1+,1111111111,sweety.caroline.n@modelschool.com
+121,ANJALI GUPTA,1,A,Trial School,5/9/2008,female,B+,1111111111,anjali.gupta@trialschool.com
+122,BABU SHANKAR YUVAN,1,A,Trial School,12/11/2008,male,A1B-,1111111111,babu.shankar.yuvan@trialschool.com
+123,DEEPIKA S M,1,A,Trial School,4/8/2008,female,O+,1111111111,deepika.s.m@trialschool.com
+124,FLORA STEFFY,1,A,Trial School,2/9/2008,female,A2+,1111111111,flora.steffy@trialschool.com
+125,GANESH PRACHAN,1,A,CBSE School,4/2/2008,male,O-,1111111111,ganesh.prachan@cbseschool.com
+126,GURU S C,1,A,Demo School,7/5/2008,male,B+,1111111111,guru.s.c@demoschool.com
+127,HOWARD DAVID,1,A,CBSE School,5/9/2008,male,A1+,1111111111,howard.david@cbseschool.com
+128,KRISHNA AJAY M,1,A,Trial School,12/11/2008,male,A2-,1111111111,krishna.ajay.m@trialschool.com
+129,KRISHNAN S,1,A,Model School,4/8/2008,male,AB+,1111111111,krishna.ajay.m@modelschool.com
+130,KRISHNAN VENKATA SAI,1,A,Trial School,2/9/2008,male,B2+,1111111111,krishnan.venkata.sai@trialschool.com
+131,LEANDER JORAH,1,A,CBSE School,4/2/2008,female,B1-,1111111111,leander.jorah@cbseschool.com
+132,MAHADHREERAN K,1,A,CBSE School,7/5/2008,male,B1-,1111111111,mahadhreeran.k@cbseschool.com
+133,MYTHILY A,1,A,Demo School,5/9/2008,female,A2+,1111111111,mythily.a@demoschool.com
+134,NILOOM KALYAN,1,A,Model School,12/11/2008,male,O-,1111111111,mythily.a@modelschool.com
+135,NIRBHAV,1,A,CBSE School,4/8/2008,male,AB1+,1111111111,nirbhav@cbseschool.com
+136,PRASAD AJAY,1,A,CBSE School,2/9/2008,male,A1B-,1111111111,prasad.ajay@cbseschool.com
+137,PRIYA S,1,A,Model School,2/20/2008,female,A2B-,1111111111,prasad.ajay@modelschool.com
+138,RAVIGANESH SUBHEEKSHA,1,A,CBSE School,6/2/2008,male,A1B-,1111111111,raviganesh.subheeksha@cbseschool.com
+139,ROSHAN SUHIL M,1,A,Model School,5/14/2008,male,B2+,1111111111,raviganesh.subheeksha@modelschool.com
+140,NIKHIL,1,A,Trial School,3/18/2008,male,O+,1111111111,nikhil@trialschool.com
+141,ARAAVIND S,1,B,Model School,5/9/2007,male,A2+,1111111111,nikhil@modelschool.com
+142,DAMIEN ANTO S,1,B,Trial School,12/11/2007,male,AB-,1111111111,damien.anto.s@trialschool.com
+143,DANIEL BERRIN Y,1,B,Demo School,4/8/2007,male,A2B-,1111111111,daniel.berrin.y@demoschool.com
+144,DESHPANDE ROHAN,1,B,CBSE School,2/9/2007,male,O-,1111111111,deshpande.rohan@cbseschool.com
+145,DEV SHRIYA,1,B,Model School,4/2/2007,female,O-,1111111111,deshpande.rohan@modelschool.com
+146,DEV SNEHA,1,B,Trial School,7/5/2007,female,A2+,1111111111,dev.sneha@trialschool.com
+147,GOWTHAM S,1,B,Trial School,5/9/2007,male,B+,1111111111,gowtham.s@trialschool.com
+148,REHMAN,1,B,CBSE School,12/11/2007,male,A2B+,1111111111,rehman@cbseschool.com
+149,HARINI,1,B,Model School,4/8/2007,female,B2+,1111111111,rehman@modelschool.com
+150,IBRAHIM MOHAMED,1,B,Trial School,2/9/2007,male,A2-,1111111111,ibrahim.mohamed@trialschool.com
+151,LAGAAN,1,B,Demo School,4/2/2007,male,A1-,1111111111,lagaan@demoschool.com
+152,LEELA,1,B,CBSE School,7/5/2007,female,A1-,1111111111,leela@cbseschool.com
+153,NAGARAJ NAMRATA,1,B,CBSE School,5/9/2007,male,AB+,1111111111,nagaraj.namrata@cbseschool.com
+154,NUMAR DINESH,1,B,Demo School,12/11/2007,male,A2B+,1111111111,numar.dinesh@demoschool.com
+155,NURUSHOTHAMAN,1,B,Trial School,4/8/2007,male,B-,1111111111,nurushothaman@trialschool.com
+156,OLIVER,1,B,Model School,2/9/2007,male,A+,1111111111,nurushothaman@modelschool.com
+157,RAAJAN AADITHIYA G,1,B,CBSE School,2/20/2007,male,AB+,1111111111,raajan.aadithiya.g@cbseschool.com
+158,RANGANATHAN MANASSA,1,B,CBSE School,6/2/2007,male,A1-,1111111111,ranganathan.manassa@cbseschool.com
+159,RAVIKIRAN S B,1,B,CBSE School,5/14/2007,male,B-,1111111111,ravikiran.s.b@cbseschool.com
+160,SREERAM S S,1,B,CBSE School,3/18/2007,male,AB-,1111111111,sreeram.s.s@cbseschool.com
+161,ADITYA RAJU GANAPATHI,2,A,Trial School,5/9/2006,male,AB+,1111111111,aditya.raju.ganapathi@trialschool.com
+162,ARCHANA B,2,A,Model School,12/11/2006,female,AB+,1111111111,aditya.raju.ganapathi@modelschool.com
+163,ARUN M,2,A,Trial School,4/8/2006,male,A1B+,1111111111,arun.m@trialschool.com
+164,DAVEY M DHRUV,2,A,CBSE School,2/9/2006,male,O+,1111111111,davey.m.dhruv@cbseschool.com
+165,GOWTHAMI T,2,A,Trial School,4/2/2006,female,B-,1111111111,gowthami.t@trialschool.com
+166,HAARIKA CHITTOORY,2,A,Demo School,7/5/2006,female,A2B-,1111111111,haarika.chittoory@demoschool.com
+167,HAARINI G M,2,A,Trial School,5/9/2006,female,A1B-,1111111111,haarini.g.m@trialschool.com
+168,HARIHARAN R,2,A,CBSE School,12/11/2006,male,B2+,1111111111,hariharan.r@cbseschool.com
+169,Harold P,2,A,Model School,4/8/2006,male,B2+,1111111111,hariharan.r@modelschool.com
+170,HARSHITHA R,2,A,Model School,2/9/2006,female,A2+,1111111111,harold.p@modelschool.com
+171,JITANI M SHUBHAM,2,A,Demo School,4/2/2006,female,O+,1111111111,jitani.m.shubham@demoschool.com
+172,KAVIN S T,2,A,Model School,7/5/2006,male,A2+,1111111111,jitani.m.shubham@modelschool.com
+173,MOHANTY ROHAN,2,A,Demo School,5/9/2006,male,A1+,1111111111,mohanty.rohan@demoschool.com
+174,NIVETHA B,2,A,Model School,12/11/2006,female,O+,1111111111,mohanty.rohan@modelschool.com
+175,NIVETHITHA A,2,A,Model School,4/8/2006,female,A1-,1111111111,nivetha.b@modelschool.com
+176,RANKA N AKSHAY,2,A,CBSE School,2/9/2006,male,B1+,1111111111,ranka.n.akshay@cbseschool.com
+177,REETA JOSHI,2,A,Trial School,2/20/2006,female,A2B+,1111111111,reeta.joshi@trialschool.com
+178,RINI ASHA R,2,A,Trial School,6/2/2006,female,AB-,1111111111,rini.asha.r@trialschool.com
+179,ROSHNI VELLAISAMY,2,A,Model School,5/14/2006,female,AB1+,1111111111,rini.asha.r@modelschool.com
+180,SHRIKANTH SUSHMITHA,2,A,Demo School,3/18/2006,male,B1+,1111111111,shrikanth.sushmitha@demoschool.com
+181,RITHICKA S,2,B,Trial School,5/9/2005,female,A+,1111111111,rithicka.s@trialschool.com
+182,DARUN J,2,B,Demo School,12/11/2005,male,A1+,1111111111,darun.j@demoschool.com
+183,DUTTA DIPANJAN,2,B,CBSE School,4/8/2005,male,AB2+,1111111111,dutta.dipanjan@cbseschool.com
+184,JAFFERARSHAD D,2,B,Trial School,2/9/2005,male,O+,1111111111,jafferarshad.d@trialschool.com
+185,JAYANTHI T,2,B,Model School,4/2/2005,female,O-,1111111111,jafferarshad.d@modelschool.com
+186,KAUR RAAGVEEN,2,B,Demo School,7/5/2005,male,A1+,1111111111,kaur.raagveen@demoschool.com
+187,KOKILA S,2,B,CBSE School,5/9/2005,female,AB-,1111111111,kokila.s@cbseschool.com
+188,MALVIKA T,2,B,Trial School,12/11/2005,female,B2+,1111111111,malvika.t@trialschool.com
+189,MONISH D N,2,B,Model School,4/8/2005,male,B-,1111111111,malvika.t@modelschool.com
+190,NAJDORF NEBUTT K,2,B,Trial School,2/9/2005,male,A2B+,1111111111,najdorf.nebutt.k@trialschool.com
+191,NARENRAJU,2,B,CBSE School,4/2/2005,male,A1-,1111111111,narenraju@cbseschool.com
+192,NOMISHWAR,2,B,CBSE School,7/5/2005,male,B2+,1111111111,nomishwar@cbseschool.com
+193,RASIKA A,2,B,Trial School,5/9/2005,female,B2+,1111111111,rasika.a@trialschool.com
+194,RENITA P,2,B,CBSE School,12/11/2005,female,AB-,1111111111,renita.p@cbseschool.com
+195,REVATHY N,2,B,Demo School,4/8/2005,female,B1+,1111111111,revathy.n@demoschool.com
+196,SREEKAR S,2,B,CBSE School,2/9/2005,male,O+,1111111111,sreekar.s@cbseschool.com
+197,SRIKRISHNAA D,2,B,Demo School,2/20/2005,male,A2+,1111111111,srikrishnaa.d@demoschool.com
+198,SRIMATHI S N,2,B,Trial School,6/2/2005,female,O-,1111111111,srimathi.s.n@trialschool.com
+199,STEFFI B,2,B,CBSE School,5/14/2005,female,AB-,1111111111,steffi.b@cbseschool.com
+200,SUBRAMANIYAM SHRUTI,2,B,CBSE School,3/18/2005,male,A2B+,1111111111,subramaniyam.shruti@cbseschool.com
+201,ANJANA J,3,A,Demo School,5/9/2005,female,A2B+,1111111111,anjana.j@demoschool.com
+202,RAVI R,3,A,Trial School,12/11/2005,male,O+,1111111111,ravi.r@trialschool.com
+203,GUPTA AAYUSH,3,A,Demo School,4/8/2005,male,AB2+,1111111111,gupta.aayush@demoschool.com
+204,HUBERT HYACINTH ANGELA,3,A,Demo School,2/9/2005,female,A1B+,1111111111,hubert.hyacinth.angela@demoschool.com
+205,HUSSAIN AMEENUDDIN A,3,A,Demo School,4/2/2005,male,A1+,1111111111,hussain.ameenuddin.a@demoschool.com
+206,JEYACHANDRAN PRANAV,3,A,CBSE School,7/5/2005,male,A2-,1111111111,jeyachandran.pranav@cbseschool.com
+207,KRISHNAN,3,A,CBSE School,5/9/2005,male,AB2+,1111111111,krishnan@cbseschool.com
+208,Leelakrishna,3,A,Model School,12/11/2005,male,A1+,1111111111,krishnan@modelschool.com
+209,Lishram Singh,3,A,Trial School,4/8/2005,male,A2B-,1111111111,lishram.singh@trialschool.com
+210,Loganathan R,3,A,CBSE School,2/9/2005,male,A2+,1111111111,loganathan.r@cbseschool.com
+211,Lokprakash A,3,A,Demo School,4/2/2005,male,AB1+,1111111111,lokprakash.a@demoschool.com
+212,MADDY SAMI,3,A,CBSE School,7/5/2005,male,AB-,1111111111,maddy.sami@cbseschool.com
+213,MOHANTY ROHAN,3,A,Demo School,5/9/2005,male,A1B+,1111111111,mohanty.rohan@demoschool.com
+214,MOHITH G,3,A,Demo School,12/11/2005,male,A2B-,1111111111,mohith.g@demoschool.com
+215,MOHUN GAUTHAM,3,A,Trial School,4/8/2005,male,A2-,1111111111,mohun.gautham@trialschool.com
+216,MONICA CHRISTINA JULIET,3,A,Model School,2/9/2005,female,B1-,1111111111,mohun.gautham@modelschool.com
+217,MONICA K,3,A,Model School,2/20/2005,female,B+,1111111111,monica.christina.juliet@modelschool.com
+218,MONISHA S,3,A,Demo School,6/2/2005,female,A2-,1111111111,monisha.s@demoschool.com
+219,MOORTHY S RAGHAV,3,A,Model School,5/14/2005,male,A1B-,1111111111,monisha.s@modelschool.com
+220,SUSHMITHA M,3,A,Demo School,3/18/2005,female,A-,1111111111,sushmitha.m@demoschool.com
+221,APOORVA MOOKHERJEE,3,B,CBSE School,5/9/2005,female,A2-,1111111111,apoorva.mookherjee@cbseschool.com
+222,BABU VENKATESH SUNDRU,3,B,CBSE School,12/11/2005,male,A2-,1111111111,babu.venkatesh.sundru@cbseschool.com
+223,CATHERINE ALICE A,3,B,Trial School,4/8/2005,female,AB2+,1111111111,catherine.alice.a@trialschool.com
+224,DANIEL EBENEZER,3,B,CBSE School,2/9/2005,male,B2+,1111111111,daniel.ebenezer@cbseschool.com
+225,HAROON A M,3,B,Trial School,4/2/2005,male,AB2+,1111111111,haroon.a.m@trialschool.com
+226,HARSHA B M,3,B,Trial School,7/5/2005,female,AB1+,1111111111,harsha.b.m@trialschool.com
+227,KALA PRIYA,3,B,Demo School,5/9/2005,female,A2+,1111111111,kala.priya@demoschool.com
+228,KESAAV Y,3,B,Model School,12/11/2005,male,O+,1111111111,kala.priya@modelschool.com
+229,KIRTHIKA B,3,B,CBSE School,4/8/2005,female,AB2+,1111111111,kirthika.b@cbseschool.com
+230,KOTHARI R CHIRAG,3,B,Model School,2/9/2005,female,B1-,1111111111,kirthika.b@modelschool.com
+231,LIVINGSTON R,3,B,Model School,4/2/2005,male,O-,1111111111,kothari.r.chirag@modelschool.com
+232,MANANA J,3,B,Trial School,7/5/2005,female,A-,1111111111,manana.j@trialschool.com
+233,MOHD HASSAN INAMUL,3,B,CBSE School,5/9/2005,male,B1+,1111111111,mohd.hassan.inamul@cbseschool.com
+234,MOHD HUSSAIN IZHARUL,3,B,Trial School,12/11/2005,male,A2B-,1111111111,mohd.hussain.izharul@trialschool.com
+235,MOHUN GAUTHAM,3,B,Trial School,4/8/2005,male,O-,1111111111,mohun.gautham@trialschool.com
+236,MONALISA,3,B,Trial School,2/9/2005,female,B1+,1111111111,monalisa@trialschool.com
+237,MUKESH A,3,B,Model School,2/20/2005,male,A2+,1111111111,monalisa@modelschool.com
+238,MUKUND MANASVINI,3,B,Model School,6/2/2005,male,B1-,1111111111,mukesh.a@modelschool.com
+239,NATHISHA,3,B,Trial School,5/14/2005,female,A1-,1111111111,nathisha@trialschool.com
+240,RANJIT,3,B,Trial School,3/18/2005,male,B1+,1111111111,ranjit@trialschool.com
+241,MONIKA D,4,A,CBSE School,5/9/2004,female,A1+,1111111111,monika.d@cbseschool.com
+242,MONISHA R,4,A,CBSE School,12/11/2004,female,O+,1111111111,monisha.r@cbseschool.com
+243,NIVETHA S T,4,A,Model School,4/8/2004,female,A2+,1111111111,monisha.r@modelschool.com
+244,PRAKASH SAUMYA,4,A,CBSE School,2/9/2004,male,A2B+,1111111111,prakash.saumya@cbseschool.com
+245,PRASAD VISHNU G,4,A,Demo School,4/2/2004,male,A-,1111111111,prasad.vishnu.g@demoschool.com
+246,PRASANA R T,4,A,Model School,7/5/2004,male,B+,1111111111,prasad.vishnu.g@modelschool.com
+247,PREMAN SRUTHI SRI,4,A,Model School,5/9/2004,male,A2B-,1111111111,prasana.r.t@modelschool.com
+248,REDDY HIMAJA P,4,A,Model School,12/11/2004,male,B1-,1111111111,preman.sruthi.sri@modelschool.com
+249,REGIS SUNIL MARK,4,A,Demo School,4/8/2004,male,A+,1111111111,regis.sunil.mark@demoschool.com
+250,ROSHINI ANUSHA A,4,A,CBSE School,2/9/2004,female,B1-,1111111111,roshini.anusha.a@cbseschool.com
+251,RUSHA MADHU C,4,A,CBSE School,4/2/2004,female,A-,1111111111,rusha.madhu.c@cbseschool.com
+252,SIVARAM J,4,A,Model School,7/5/2004,male,A2B+,1111111111,rusha.madhu.c@modelschool.com
+253,SIVASANKARI R,4,A,CBSE School,5/9/2004,female,A1B-,1111111111,sivasankari.r@cbseschool.com
+254,SREYAS P,4,A,Trial School,12/11/2004,female,A2+,1111111111,sreyas.p@trialschool.com
+255,SRIDHAR SHRUTHI,4,A,Demo School,4/8/2004,male,AB-,1111111111,sridhar.shruthi@demoschool.com
+256,SRINATH M T,4,A,CBSE School,2/9/2004,male,B2+,1111111111,srinath.m.t@cbseschool.com
+257,SUDARSANAM SUBASHREE,4,A,Trial School,2/20/2004,male,A2B-,1111111111,sudarsanam.subashree@trialschool.com
+258,SURES VISHNU,4,A,CBSE School,6/2/2004,male,B+,1111111111,sures.vishnu@cbseschool.com
+259,TANUSHREE R,4,A,Model School,5/14/2004,female,AB+,1111111111,sures.vishnu@modelschool.com
+260,THASEEM MOHAMMED E,4,A,Demo School,3/18/2004,male,A2B-,1111111111,thaseem.mohammed.e@demoschool.com
+261,RANJAN K MANI,4,B,Demo School,3/18/2004,male,B1-,1111111111,ranjan.k.mani@demoschool.com
+262,RAAMMOHAN VIGNESH,4,B,Model School,5/14/2004,male,A1B-,1111111111,ranjan.k.mani@modelschool.com
+263,PUSHPANATHAN NIRANJAN,4,B,Demo School,6/2/2004,male,A1-,1111111111,pushpanathan.niranjan@demoschool.com
+264,PUROHIT RAJ DASHRATH,4,B,Model School,2/20/2004,male,A+,1111111111,pushpanathan.niranjan@modelschool.com
+265,PULIKOT ACHUTH,4,B,Trial School,2/9/2004,male,B-,1111111111,pulikot.achuth@trialschool.com
+266,PAARKAVI D,4,B,Model School,4/8/2004,female,AB-,1111111111,pulikot.achuth@modelschool.com
+267,NIKESH SUDHAARSHAN,4,B,CBSE School,12/11/2004,male,A-,1111111111,nikesh.sudhaarshan@cbseschool.com
+268,NALAVANYA,4,B,Demo School,5/9/2004,female,AB2+,1111111111,nalavanya@demoschool.com
+269,MUTHU GKEVIN M,4,B,Demo School,7/5/2004,male,AB2+,1111111111,muthu.gkevin.m@demoschool.com
+270,MURALIDHARAN SRINIVAS,4,B,Model School,4/2/2004,male,A2-,1111111111,muthu.gkevin.m@modelschool.com
+271,MISSER O NITISHA,4,B,Trial School,2/9/2004,female,O-,1111111111,misser.o.nitisha@trialschool.com
+272,MAHALAKSHMI,4,B,Model School,4/8/2004,female,A-,1111111111,misser.o.nitisha@modelschool.com
+273,MADHAV TUNTA,4,B,Demo School,12/11/2004,male,O-,1111111111,madhav.tunta@demoschool.com
+274,Lousie Paul,4,B,Model School,5/9/2004,male,AB-,1111111111,madhav.tunta@modelschool.com
+275,Livingston R,4,B,CBSE School,7/5/2004,male,B1+,1111111111,livingston.r@cbseschool.com
+276,Laavanya R,4,B,Trial School,4/2/2004,female,O+,1111111111,laavanya.r@trialschool.com
+277,KRISHNAN MEGHANA,4,B,Trial School,2/9/2004,male,B2+,1111111111,krishnan.meghana@trialschool.com
+278,KIRUTHIKA R,4,B,CBSE School,4/8/2004,female,A2+,1111111111,kiruthika.r@cbseschool.com
+279,KHATRI YUKTI,4,B,Trial School,12/11/2004,male,A+,1111111111,khatri.yukti@trialschool.com
+280,JOSHUA NITHIN R,4,B,Demo School,5/9/2004,male,A1B+,1111111111,joshua.nithin.r@demoschool.com
+281,DEWAN AAYUSH,5,A,Trial School,5/9/2003,male,B1+,1111111111,dewan.aayush@trialschool.com
+282,DIVYA S,5,A,CBSE School,12/11/2003,female,AB+,1111111111,divya.s@cbseschool.com
+283,DOMNIC B A,5,A,Demo School,4/8/2003,male,A2B+,1111111111,domnic.b.a@demoschool.com
+284,DOSHI A JEENAL,5,A,Model School,2/9/2003,female,B1+,1111111111,domnic.b.a@modelschool.com
+285,GOPINATH S,5,A,Demo School,4/2/2003,male,AB-,1111111111,gopinath.s@demoschool.com
+286,GOUTHAM R,5,A,Model School,7/5/2003,male,A2B+,1111111111,gopinath.s@modelschool.com
+287,GOWRI R,5,A,Model School,5/9/2003,female,A-,1111111111,goutham.r@modelschool.com
+288,HARISH P,5,A,CBSE School,12/11/2003,male,A+,1111111111,harish.p@cbseschool.com
+289,HARSHA RUPAK,5,A,Demo School,4/8/2003,female,AB-,1111111111,harsha.rupak@demoschool.com
+290,KAVYA S,5,A,Trial School,2/9/2003,female,A2+,1111111111,kavya.s@trialschool.com
+291,KRISHNA SAI SD,5,A,Demo School,4/2/2003,male,AB2+,1111111111,krishna.sai.sd@demoschool.com
+292,KRISHNA SAI SD,5,A,Trial School,7/5/2003,male,A1B-,1111111111,krishna.sai.sd@trialschool.com
+293,KRISHNA SHREE S,5,A,Model School,5/9/2003,male,B-,1111111111,krishna.sai.sd@modelschool.com
+294,KRISHNA SRI MAHIKA,5,A,Demo School,12/11/2003,male,A2B-,1111111111,krishna.sri.mahika@demoschool.com
+295,KRISHNA SURESH D,5,A,Demo School,4/8/2003,male,AB2+,1111111111,krishna.suresh.d@demoschool.com
+296,KRISHNA VAMSI MULA,5,A,CBSE School,2/9/2003,male,B1-,1111111111,krishna.vamsi.mula@cbseschool.com
+297,Lishram Singh,5,A,Model School,2/20/2003,male,B1-,1111111111,krishna.vamsi.mula@modelschool.com
+298,Livingston R,5,A,CBSE School,6/2/2003,male,O-,1111111111,livingston.r@cbseschool.com
+299,Loganathan R,5,A,CBSE School,5/14/2003,male,B2+,1111111111,loganathan.r@cbseschool.com
+300,Lokesh R,5,A,Trial School,3/18/2003,male,B+,1111111111,lokesh.r@trialschool.com
+301,NAMBILLI VARUN,5,A,CBSE School,2/9/2003,male,B1+,1111111111,nambilli.varun@cbseschool.com
+302,ARVIND G,5,B,Model School,2/9/2002,male,AB1+,1111111111,nambilli.varun@modelschool.com
+303,AVINASH,5,B,Model School,5/9/2002,male,A-,1111111111,arvind.g@modelschool.com
+304,CHACHAM VIPANCHI,5,B,Trial School,4/2/2002,female,A1B-,1111111111,chacham.vipanchi@trialschool.com
+305,DANIEL ABISHEK B,5,B,Trial School,7/5/2002,male,AB2+,1111111111,daniel.abishek.b@trialschool.com
+306,DIVYALAKSHMI J,5,B,Model School,5/9/2002,female,A1+,1111111111,daniel.abishek.b@modelschool.com
+307,GOPAL GAYATRI,5,B,CBSE School,12/11/2002,male,A1B-,1111111111,gopal.gayatri@cbseschool.com
+308,GUPTA A ARCHIT,5,B,Trial School,4/8/2002,male,A+,1111111111,gupta.a.archit@trialschool.com
+309,HAARISH V C,5,B,Demo School,2/9/2002,male,B1-,1111111111,haarish.v.c@demoschool.com
+310,HARAN VISHNU K,5,B,Trial School,4/2/2002,male,AB+,1111111111,haran.vishnu.k@trialschool.com
+311,HARI S,5,B,Demo School,7/5/2002,male,A1B+,1111111111,hari.s@demoschool.com
+312,Harmendra Dharmendra,5,B,Demo School,5/9/2002,male,AB-,1111111111,harmendra.dharmendra@demoschool.com
+313,ISHWAR R,5,B,Demo School,12/11/2002,male,B1+,1111111111,ishwar.r@demoschool.com
+314,JAYAN K G,5,B,Demo School,4/8/2002,male,A2+,1111111111,jayan.k.g@demoschool.com
+315,JAYARAMAN HARINI,5,B,CBSE School,2/9/2002,male,A1B-,1111111111,jayaraman.harini@cbseschool.com
+316,JAYASOORYA S K,5,B,Model School,2/20/2002,male,A-,1111111111,jayasoorya.s.kjayasoorya.s.k@modelschool.com
+317,JECINTHA V,5,B,CBSE School,6/2/2002,female,A2B-,1111111111,jecintha.v@cbseschool.com
+318,KRISHNARAJ MEENAKSHI,5,B,Demo School,5/14/2002,male,A2B+,1111111111,krishnaraj.meenakshi@demoschool.com
+319,MAHIKA,5,B,Trial School,12/11/2002,female,AB-,1111111111,mahika@trialschool.com
+320,RAGHAV,5,B,CBSE School,4/8/2002,male,B+,1111111111,raghav@cbseschool.com
+321,SURESH D,5,B,Model School,3/18/2002,male,A2B+,1111111111,suresh.dsuresh.d@modelschool.com
+322,BRAHADHEESWARAN T T,6,A,Model School,5/9/2001,male,AB1+,1111111111,brahadheeswaran.t.tbrahadheeswaran.t.t@modelschool.com
+323,DEEKSHA G,6,A,Trial School,12/11/2001,female,A1B-,1111111111,deeksha.gdeeksha.g@trialschool.com
+324,DOSHI H MITANSHI,6,A,CBSE School,4/8/2001,male,A1-,1111111111,doshi.h.mitanshi@cbseschool.com
+325,DUTTA ROHAN,6,A,Demo School,2/9/2001,male,A2B+,1111111111,dutta.rohan@demoschool.com
+326,ELAKKIYA A,6,A,CBSE School,4/2/2001,female,AB+,1111111111,elakkiya.a@cbseschool.com
+327,HAJIRA ZAINAB,6,A,Trial School,7/5/2001,male,AB1+,1111111111,hajira.zainabhajira.zainab@trialschool.com
+328,HARIPRAKASH VALIATHAN ADITYA,6,A,CBSE School,5/9/2001,male,A1+,1111111111,hariprakash.valiathan.aditya@cbseschool.com
+329,HARIRAM K,6,A,Trial School,12/11/2001,male,A1+,1111111111,hariram.khariram.k@trialschool.com
+330,HEMNATH RA,6,A,Model School,4/8/2001,male,A2+,1111111111,hemnath.rahemnath.ra@modelschool.com
+331,JAYARAM SHRINIVAS,6,A,Model School,2/9/2001,male,B-,1111111111,jayaram.shrinivasjayaram.shrinivas@modelschool.com
+332,JEEVITHA P V,6,A,Model School,4/2/2001,female,A2-,1111111111,jeevitha.p.vjeevitha.p.v@modelschool.com
+333,KHOUSHIK R M,6,A,CBSE School,7/5/2001,male,B-,1111111111,khoushik.r.m@cbseschool.com
+334,KRITHIKA S,6,A,Demo School,5/9/2001,female,B1+,1111111111,krithika.s@demoschool.com
+335,LAAVANYA,6,A,Model School,12/11/2001,female,A1+,1111111111,laavanyalaavanya@modelschool.com
+336,Lathika S,6,A,Trial School,4/8/2001,female,A2+,1111111111,lathika.slathika.s@trialschool.com
+337,Laxman Reddy,6,A,CBSE School,2/9/2001,female,B+,1111111111,laxman.reddy@cbseschool.com
+338,NANDHINI P,6,A,Model School,2/20/2001,female,A+,1111111111,nandhini.pnandhini.p@modelschool.com
+339,REENA MEHTA E,6,A,Model School,6/2/2001,female,A2-,1111111111,reena.mehta.ereena.mehta.e@modelschool.com
+340,RIYA OVIYA I,6,A,CBSE School,5/14/2001,female,AB2+,1111111111,riya.oviya.i@cbseschool.com
+341,SUSHMITHA M,6,A,Trial School,3/18/2001,female,B2+,1111111111,sushmitha.msushmitha.m@trialschool.com
+342,GOVIND AKSHAYA,6,B,Demo School,5/9/2001,male,AB2+,1111111111,govind.akshaya@demoschool.com
+343,GUNASEKARAN RAGHUL,6,B,Demo School,12/11/2001,male,B1-,1111111111,gunasekaran.raghul@demoschool.com
+344,HARIHARAN S,6,B,Model School,4/8/2001,male,B+,1111111111,hariharan.shariharan.s@modelschool.com
+345,JEMIMAH ANGELINE S,6,B,Demo School,2/9/2001,female,A1B+,1111111111,jemimah.angeline.s@demoschool.com
+346,JHA SHRESHTHA,6,B,Model School,4/2/2001,female,A2+,1111111111,jha.shreshthajha.shreshtha@modelschool.com
+347,KATHIRESAN M KRITHIKA,6,B,Model School,7/5/2001,male,B2+,1111111111,kathiresan.m.krithikakathiresan.m.krithika@modelschool.com
+348,KAUSHIK S L,6,B,CBSE School,5/9/2001,male,A1B-,1111111111,kaushik.s.l@cbseschool.com
+349,KEVIN K,6,B,Trial School,12/11/2001,male,A2B-,1111111111,kevin.kkevin.k@trialschool.com
+350,KISHORE S,6,B,Trial School,4/8/2001,male,A2+,1111111111,kishore.skishore.s@trialschool.com
+351,KOHLI SINGH AMITOJ,6,B,CBSE School,2/9/2001,male,O-,1111111111,kohli.singh.amitoj@cbseschool.com
+352,KRISHNAMURTHY SAISRIVATSA,6,B,Trial School,4/2/2001,male,A1B+,1111111111,krishnamurthy.saisrivatsakrishnamurthy.saisrivatsa@trialschool.com
+353,KRISHNAN ARNAV,6,B,CBSE School,7/5/2001,male,A+,1111111111,krishnan.arnav@cbseschool.com
+354,Lalitha Kumar,6,B,CBSE School,5/9/2001,female,O-,1111111111,lalitha.kumar@cbseschool.com
+355,LILLE S,6,B,Model School,12/11/2001,female,AB+,1111111111,lille.slille.s@modelschool.com
+356,MERHABA M,6,B,Demo School,4/8/2001,female,A2B-,1111111111,merhaba.m@demoschool.com
+357,REVATHI,6,B,CBSE School,2/9/2001,female,A1+,1111111111,revathi@cbseschool.com
+358,SAANA KHAN,6,B,CBSE School,2/20/2001,male,B1+,1111111111,saana.khan@cbseschool.com
+359,VALARMATHI,6,B,Model School,6/2/2001,female,O-,1111111111,valarmathivalarmathi@modelschool.com
+360,VIKRAM KUMAR,6,B,CBSE School,5/14/2001,male,AB1+,1111111111,vikram.kumar@cbseschool.com
+361,ZACHARIAH H,6,B,Model School,3/18/2001,male,A2B-,1111111111,zachariah.hzachariah.h@modelschool.com
+362,AAKASH J,7,A,Trial School,5/9/2001,male,AB+,1111111111,aakash.jaakash.j@trialschool.com
+363,ABHINANDH S,7,A,Trial School,12/11/2001,male,A-,1111111111,abhinandh.sabhinandh.s@trialschool.com
+364,AISHWARRYA P,7,A,Model School,4/8/2001,female,B-,1111111111,aishwarrya.paishwarrya.p@modelschool.com
+365,AISHWARYA G,7,A,Model School,2/9/2001,female,A2+,1111111111,aishwarya.gaishwarya.g@modelschool.com
+366,AKHIL G,7,A,CBSE School,4/2/2001,male,A2B-,1111111111,akhil.g@cbseschool.com
+367,AMARCHAND S,7,A,CBSE School,7/5/2001,male,A2+,1111111111,amarchand.s@cbseschool.com
+368,ARVIND P,7,A,Trial School,5/9/2001,male,A2+,1111111111,arvind.parvind.p@trialschool.com
+369,AVINASH A,7,A,CBSE School,12/11/2001,male,A1-,1111111111,avinash.a@cbseschool.com
+370,CHAKRABORTI SHATARUPA,7,A,CBSE School,4/8/2001,male,A2B-,1111111111,chakraborti.shatarupa@cbseschool.com
+371,DHANALAKSHMI V,7,A,Demo School,2/9/2001,female,AB+,1111111111,dhanalakshmi.v@demoschool.com
+372,DHANYA S,7,A,Demo School,4/2/2001,female,AB+,1111111111,dhanya.s@demoschool.com
+373,GOVIND ARUN,7,A,Model School,7/5/2001,male,B2+,1111111111,govind.arungovind.arun@modelschool.com
+374,HEMA,7,A,Demo School,5/9/2001,female,B+,1111111111,hema@demoschool.com
+375,JOSHI KUMAR LOKESH,7,A,CBSE School,12/11/2001,female,A1+,1111111111,joshi.kumar.lokesh@cbseschool.com
+376,SURESH,7,A,CBSE School,4/8/2001,male,AB+,1111111111,suresh@cbseschool.com
+377,REVATHI,7,A,Trial School,2/9/2001,female,A1B+,1111111111,revathirevathi@trialschool.com
+378,SAANA KHAN,7,A,CBSE School,2/20/2001,male,AB2+,1111111111,saana.khan@cbseschool.com
+379,VALARMATHI,7,A,Trial School,6/2/2001,female,AB1+,1111111111,valarmathivalarmathi@trialschool.com
+380,VIKRAM KUMAR,7,A,Trial School,5/14/2001,male,AB2+,1111111111,vikram.kumarvikram.kumar@trialschool.com
+381,ZACHARIAH H,7,A,CBSE School,3/18/2001,male,A2+,1111111111,zachariah.h@cbseschool.com
+382,AKSHAY K,7,A,Trial School,1/2/2004,male,AB1+,1111111111,akshay.kakshay.k@trialschool.com
+383,KATYAL DEEPIKA,7,A,Trial School,5/3/2004,female,A2-,1111111111,katyal.deepikakatyal.deepika@trialschool.com
+384,KRISHNA ADITYA R,7,A,Trial School,7/6/2004,male,AB+,1111111111,krishna.aditya.rkrishna.aditya.r@trialschool.com
+385,LAVANYASHETTY,7,A,Demo School,6/1/2004,female,A1+,1111111111,lavanyashetty@demoschool.com
+386,LAXMIKANTH E,7,A,Demo School,4/7/2004,male,B+,1111111111,laxmikanth.e@demoschool.com
+387,MODI B ANKITHA,7,A,CBSE School,11/8/2004,female,O-,1111111111,modi.b.ankitha@cbseschool.com
+388,MONITHA R,7,A,Demo School,1/2/2004,female,O+,1111111111,monitha.r@demoschool.com
+389,NAIR ADARSH,7,A,Model School,5/3/2004,male,AB1+,1111111111,nair.adarshnair.adarsh@modelschool.com
+390,NARAJ AMOGH,7,A,Trial School,7/6/2004,male,A1B+,1111111111,naraj.amoghnaraj.amogh@trialschool.com
+391,NOMIKA GAYATHRI,7,A,Trial School,6/1/2004,female,AB+,1111111111,nomika.gayathrinomika.gayathri@trialschool.com
+392,PRAVEEN T,7,A,Demo School,4/7/2004,male,O+,1111111111,praveen.t@demoschool.com
+393,PRIYA SHREE R,7,A,Trial School,11/8/2004,female,B-,1111111111,priya.shree.rpriya.shree.r@trialschool.com
+394,RASHITHA DEVARAPALLI,7,A,Trial School,1/2/2004,female,AB1+,1111111111,rashitha.devarapallirashitha.devarapalli@trialschool.com
+395,RATHNAM S ADITYA,7,A,Model School,5/3/2004,male,AB-,1111111111,rathnam.s.adityarathnam.s.aditya@modelschool.com
+396,REDDY KARAN CHANDRA,7,A,Demo School,7/6/2004,male,A2B+,1111111111,reddy.karan.chandra@demoschool.com
+397,REKHASRI R,7,A,Model School,6/1/2004,male,A1+,1111111111,rekhasri.rrekhasri.r@modelschool.com
+398,RM PRIYA CHELLA,7,A,Model School,4/7/2004,female,A1-,1111111111,rm.priya.chellarm.priya.chella@modelschool.com
+399,SHRIRAAM ABHINAVA,7,A,Demo School,11/8/2004,male,B-,1111111111,shriraam.abhinava@demoschool.com
+400,SOMASUNDARAM KARTHIK T,7,A,CBSE School,3/4/2004,male,O+,1111111111,somasundaram.karthik.t@cbseschool.com
+401,SRINIVAS AKELLA,7,A,Trial School,3/5/2004,male,B-,1111111111,srinivas.akellasrinivas.akella@trialschool.com
+402,Dinesh Kumar,7,B,Trial School,5/9/2001,male,B+,1111111111,dinesh.kumardinesh.kumar@trialschool.com
+403,Gayathri,7,B,Model School,12/11/2001,female,A+,1111111111,gayathrigayathri@modelschool.com
+404,Kiran,7,B,Demo School,4/8/2001,male,A2+,1111111111,kiran@demoschool.com
+405,Lakshmi Narayanan,7,B,Demo School,2/9/2001,male,B1-,1111111111,lakshmi.narayanan@demoschool.com
+406,Mahima,7,B,CBSE School,4/2/2001,female,AB+,1111111111,mahima@cbseschool.com
+407,Michael,7,B,CBSE School,7/5/2001,male,B+,1111111111,michael@cbseschool.com
+408,Shadiya,7,B,CBSE School,5/9/2001,female,A2B+,1111111111,shadiya@cbseschool.com
+409,Shakila,7,B,Model School,12/11/2001,female,AB1+,1111111111,shakilashakila@modelschool.com
+410,Sharmila,7,B,Trial School,4/8/2001,female,A1B+,1111111111,sharmilasharmila@trialschool.com
+411,Smitha,7,B,Model School,2/9/2001,female,O-,1111111111,smithasmitha@modelschool.com
+412,Sri Ram,7,B,CBSE School,4/2/2001,male,A-,1111111111,sri.ram@cbseschool.com
+413,Uma,7,B,Trial School,7/5/2001,female,AB1+,1111111111,umauma@trialschool.com
+414,Vinothini,7,B,Model School,5/9/2001,female,A+,1111111111,vinothinivinothini@modelschool.com
+415,Yuvan,7,B,Demo School,12/11/2001,male,O-,1111111111,yuvan@demoschool.com
+416,Yuvaraj,7,B,Model School,4/8/2001,male,O+,1111111111,yuvarajyuvaraj@modelschool.com
+417,Dinesh Kumar,7,B,Model School,2/9/2001,male,B+,1111111111,dinesh.kumardinesh.kumar@modelschool.com
+418,Gayathri,7,B,Model School,2/20/2001,female,A+,1111111111,gayathrigayathri@modelschool.com
+419,Kiran,7,B,Demo School,6/2/2001,male,B+,1111111111,kiran@demoschool.com
+420,Lakshmi Narayanan,7,B,Trial School,5/14/2001,male,A2-,1111111111,lakshmi.narayananlakshmi.narayanan@trialschool.com
+421,Mahima,7,B,CBSE School,3/18/2001,female,A1B+,1111111111,mahima@cbseschool.com
+422,HARI T,8,A,Demo School,5/9/2001,male,AB1+,1111111111,hari.t@demoschool.com
+423,YAMINI,8,A,Model School,12/11/2001,female,B-,1111111111,yaminiyamini@modelschool.com
+424,AYSHWARYA M,8,A,Model School,4/8/2001,female,A+,1111111111,ayshwarya.mayshwarya.m@modelschool.com
+425,CHRISTINA S,8,A,CBSE School,2/9/2001,female,A1-,1111111111,christina.s@cbseschool.com
+426,DIWAKAR PRANAV,8,A,Demo School,4/2/2001,male,B1-,1111111111,diwakar.pranav@demoschool.com
+427,DOMNIC B,8,A,Model School,7/5/2001,male,AB2+,1111111111,domnic.bdomnic.b@modelschool.com
+428,DUBEY AKSHITA,8,A,Model School,5/9/2001,female,A-,1111111111,dubey.akshitadubey.akshita@modelschool.com
+429,DURKA M M,8,A,CBSE School,12/11/2001,female,AB2+,1111111111,durka.m.m@cbseschool.com
+430,GURU KUMARA PRANAVA,8,A,CBSE School,4/8/2001,male,A2+,1111111111,guru.kumara.pranava@cbseschool.com
+431,HEMNATH RA,8,A,Demo School,2/9/2001,male,AB1+,1111111111,hemnath.ra@demoschool.com
+432,HIMESH W,8,A,Demo School,4/2/2001,male,A2B-,1111111111,himesh.w@demoschool.com
+433,KRISHNAN GAAYATHRI,8,A,Demo School,7/5/2001,male,A2-,1111111111,krishnan.gaayathri@demoschool.com
+434,Loganathan R,8,A,Model School,5/9/2001,male,A1B+,1111111111,loganathan.rloganathan.r@modelschool.com
+435,MAANASA,8,A,Demo School,12/11/2001,female,B1-,1111111111,maanasa@demoschool.com
+436,MEENAKSHI,8,A,Model School,4/8/2001,female,A1+,1111111111,meenakshimeenakshi@modelschool.com
+437,MUTHUKUMAR VISHALINI,8,A,Model School,2/9/2001,male,B1+,1111111111,muthukumar.vishalinimuthukumar.vishalini@modelschool.com
+438,MUTHULAKSHMI SP,8,A,CBSE School,2/20/2001,female,B2+,1111111111,muthulakshmi.sp@cbseschool.com
+439,NIVETHITHA S,8,A,Trial School,6/2/2001,female,O-,1111111111,nivethitha.snivethitha.s@trialschool.com
+440,NIVIGNESH,8,A,Model School,5/14/2001,male,A1B-,1111111111,nivigneshnivignesh@modelschool.com
+441,PRIYADHARSINI N,8,A,CBSE School,3/18/2001,female,A2+,1111111111,priyadharsini.n@cbseschool.com
+442,DOKANIA HARSHITA,8,B,Model School,5/9/2001,female,AB+,1111111111,dokania.harshitadokania.harshita@modelschool.com
+443,HEMAGANTH S,8,B,Trial School,12/11/2001,female,B2+,1111111111,hemaganth.shemaganth.s@trialschool.com
+444,Henry Jackson,8,B,Model School,4/8/2001,male,AB1+,1111111111,henry.jacksonhenry.jackson@modelschool.com
+445,JOSHUA MANUEL J,8,B,Model School,2/9/2001,male,A+,1111111111,joshua.manuel.jjoshua.manuel.j@modelschool.com
+446,JOSHUA MARVIN,8,B,CBSE School,4/2/2001,male,AB+,1111111111,joshua.marvin@cbseschool.com
+447,JUHNA R J,8,B,CBSE School,7/5/2001,female,A1-,1111111111,juhna.r.j@cbseschool.com
+448,KRISHNAN GOKULA M,8,B,Trial School,5/9/2001,male,A1B+,1111111111,krishnan.gokula.mkrishnan.gokula.m@trialschool.com
+449,KRISHNAN VENKATA SAI,8,B,Trial School,12/11/2001,male,B+,1111111111,krishnan.venkata.saikrishnan.venkata.sai@trialschool.com
+450,LOKESH S,8,B,Model School,4/8/2001,male,AB2+,1111111111,lokesh.slokesh.s@modelschool.com
+451,MRUDULA T,8,B,Trial School,2/9/2001,female,B1+,1111111111,mrudula.tmrudula.t@trialschool.com
+452,MUHAMMED THABREZ,8,B,Trial School,4/2/2001,male,A2B+,1111111111,muhammed.thabrezmuhammed.thabrez@trialschool.com
+453,MUKUNDAN BHARGAVEE,8,B,CBSE School,7/5/2001,male,A+,1111111111,mukundan.bhargavee@cbseschool.com
+454,MURUGANANDAM VARUN,8,B,Model School,5/9/2001,male,A1B+,1111111111,muruganandam.varunmuruganandam.varun@modelschool.com
+455,NIVHASINI V,8,B,Trial School,12/11/2001,female,A2B-,1111111111,nivhasini.vnivhasini.v@trialschool.com
+456,NIZAR SENU,8,B,Model School,4/8/2001,male,B-,1111111111,nizar.senunizar.senu@modelschool.com
+457,NURUSHOTHAMAN,8,B,Trial School,2/9/2001,male,A2B-,1111111111,nurushothamannurushothaman@trialschool.com
+458,PRIYA MOHANA K,8,B,Model School,2/20/2001,female,B-,1111111111,priya.mohana.kpriya.mohana.k@modelschool.com
+459,PRIYADARSHINI M,8,B,Trial School,6/2/2001,female,A-,1111111111,priyadarshini.mpriyadarshini.m@trialschool.com
+460,PULIKOT ACHUTH,8,B,Demo School,5/14/2001,male,AB+,1111111111,pulikot.achuth@demoschool.com
+461,ROHIT R,8,B,CBSE School,3/18/2001,male,B1-,1111111111,rohit.r@cbseschool.com
+462,APOORVA MOOKHERJEE,9,A,CBSE School,5/9/2001,female,A2B+,1111111111,apoorva.mookherjee@cbseschool.com
+463,CATHERINE ALICE A,9,A,Demo School,12/11/2001,female,B-,1111111111,catherine.alice.a@demoschool.com
+464,DANIEL EBENEZER,9,A,CBSE School,4/8/2001,male,A1-,1111111111,daniel.ebenezer@cbseschool.com
+465,HAROON A M,9,A,Trial School,2/9/2001,male,A+,1111111111,haroon.a.mharoon.a.m@trialschool.com
+466,HARSHA B M,9,A,CBSE School,4/2/2001,female,O-,1111111111,harsha.b.m@cbseschool.com
+467,INAMUL,9,A,Trial School,7/5/2001,male,A1B-,1111111111,inamulinamul@trialschool.com
+468,KALA PRIYA,9,A,Trial School,5/9/2001,female,AB+,1111111111,kala.priyakala.priya@trialschool.com
+469,KESAAV Y,9,A,Model School,12/11/2001,male,O+,1111111111,kesaav.ykesaav.y@modelschool.com
+470,KIRTHIKA B,9,A,Demo School,4/8/2001,female,B1+,1111111111,kirthika.b@demoschool.com
+471,KOTHARI R CHIRAG,9,A,Demo School,2/9/2001,female,A2B+,1111111111,kothari.r.chirag@demoschool.com
+472,LIVINGSTON R,9,A,CBSE School,4/2/2001,male,B1+,1111111111,livingston.r@cbseschool.com
+473,MANANA J,9,A,CBSE School,7/5/2001,female,A2-,1111111111,manana.j@cbseschool.com
+474,MOHD HUSSAIN IZHARUL,9,A,CBSE School,5/9/2001,male,AB+,1111111111,mohd.hussain.izharul@cbseschool.com
+475,MOHUN GAUTHAM,9,A,Demo School,12/11/2001,male,AB+,1111111111,mohun.gautham@demoschool.com
+476,MONALISA,9,A,Model School,4/8/2001,female,A1-,1111111111,monalisamonalisa@modelschool.com
+477,MUKESH A,9,A,CBSE School,2/9/2001,male,B1+,1111111111,mukesh.a@cbseschool.com
+478,MUKUND MANASVINI,9,A,Model School,2/20/2001,male,AB1+,1111111111,mukund.manasvinimukund.manasvini@modelschool.com
+479,NATHISHA,9,A,Trial School,6/2/2001,female,A2B+,1111111111,nathishanathisha@trialschool.com
+480,RANJIT,9,A,Trial School,5/14/2001,male,O-,1111111111,ranjitranjit@trialschool.com
+481,SUSHMITHA M,9,A,Model School,3/18/2001,female,A2-,1111111111,sushmitha.msushmitha.m@modelschool.com
+482,GAYATHRI,9,B,Demo School,5/9/2000,female,B2+,1111111111,gayathri@demoschool.com
+483,PRIYA SHANMUGA A,9,B,Model School,12/11/2000,female,A2B+,1111111111,priya.shanmuga.apriya.shanmuga.a@modelschool.com
+484,PRIYANKA B,9,B,CBSE School,4/8/2000,female,A1B+,1111111111,priyanka.b@cbseschool.com
+485,PURKAIT T SUNITHA,9,B,Trial School,2/9/2000,female,A2B-,1111111111,purkait.t.sunithapurkait.t.sunitha@trialschool.com
+486,RISHOB P,9,B,Model School,4/2/2000,male,A1B-,1111111111,rishob.prishob.p@modelschool.com
+487,RM PRIYA CHELLA,9,B,Demo School,7/5/2000,female,A1B+,1111111111,rm.priya.chella@demoschool.com
+488,ROONWAL S MUKUND,9,B,Demo School,5/9/2000,male,B2+,1111111111,roonwal.s.mukund@demoschool.com
+489,ROSE R,9,B,Trial School,12/11/2000,female,A2+,1111111111,rose.rrose.r@trialschool.com
+490,ROSHAN SUHIL M,9,B,Model School,4/8/2000,male,A2B+,1111111111,roshan.suhil.mroshan.suhil.m@modelschool.com
+491,ROSHNI VELLAISAMY,9,B,Demo School,2/9/2000,female,AB-,1111111111,roshni.vellaisamy@demoschool.com
+492,RUPESH C M,9,B,Trial School,4/2/2000,male,A1B-,1111111111,rupesh.c.mrupesh.c.m@trialschool.com
+493,SANYA,9,B,Demo School,7/5/2000,female,A1+,1111111111,sanya@demoschool.com
+494,SUJIN STUART M,9,B,Model School,5/9/2000,male,A-,1111111111,sujin.stuart.msujin.stuart.m@modelschool.com
+495,SUKHADIA Z DHYANESH,9,B,Model School,12/11/2000,male,AB+,1111111111,sukhadia.z.dhyaneshsukhadia.z.dhyanesh@modelschool.com
+496,SUNDAR JEYNTH,9,B,Model School,4/8/2000,male,A2-,1111111111,sundar.jeynthsundar.jeynth@modelschool.com
+497,SUSENDARAN S,9,B,Trial School,2/9/2000,male,B1-,1111111111,susendaran.ssusendaran.s@trialschool.com
+498,SWETHA S T,9,B,Trial School,2/20/2000,female,A+,1111111111,swetha.s.tswetha.s.t@trialschool.com
+499,TYAGI ARJUN,9,B,Demo School,6/2/2000,male,A2-,1111111111,tyagi.arjun@demoschool.com
+500,USHA PECHETTI,9,B,Trial School,5/14/2000,female,A1-,1111111111,usha.pechettiusha.pechetti@trialschool.com
+501,VISHALI K,9,B,CBSE School,3/18/2000,female,B1+,1111111111,vishali.k@cbseschool.com
+502,ANOOP VISHAL,10,A,Model School,5/9/2002,male,A+,1111111111,anoop.vishalanoop.vishal@modelschool.com
+503,KARTHIK NITHIN,10,A,Model School,12/11/2002,male,A+,1111111111,karthik.nithinkarthik.nithin@modelschool.com
+504,KRISHNAN S,10,A,CBSE School,4/8/2002,male,B-,1111111111,krishnan.s@cbseschool.com
+505,MEGHANA,10,A,Trial School,2/9/2002,female,O+,1111111111,meghanameghana@trialschool.com
+506,NOMIKA GAYATHRI,10,A,CBSE School,4/2/2002,female,AB+,1111111111,nomika.gayathri@cbseschool.com
+507,PRIYA SHANMUGA A,10,A,Trial School,7/5/2002,female,A2B-,1111111111,priya.shanmuga.apriya.shanmuga.a@trialschool.com
+508,PRIYANKA B,10,A,Trial School,5/9/2002,female,A1-,1111111111,priyanka.bpriyanka.b@trialschool.com
+509,PURKAIT T SUNITHA,10,A,Model School,12/11/2002,male,B1-,1111111111,purkait.t.sunithapurkait.t.sunitha@modelschool.com
+510,RISHOB P,10,A,CBSE School,4/8/2002,male,A2B+,1111111111,rishob.p@cbseschool.com
+511,RM PRIYA CHELLA,10,A,CBSE School,2/9/2002,female,A1B-,1111111111,rm.priya.chella@cbseschool.com
+512,ROONWAL S MUKUND,10,A,CBSE School,4/2/2002,male,A1B-,1111111111,roonwal.s.mukund@cbseschool.com
+513,ROSE R JENIFER,10,A,Model School,7/5/2002,female,A1B-,1111111111,rose.r.jeniferrose.r.jenifer@modelschool.com
+514,ROSHAN SUHIL M,10,A,Model School,5/9/2002,male,B1-,1111111111,roshan.suhil.mroshan.suhil.m@modelschool.com
+515,ROSHNI VELLAISAMY,10,A,Model School,12/11/2002,female,B1-,1111111111,roshni.vellaisamyroshni.vellaisamy@modelschool.com
+516,RUPESH C M,10,A,Model School,4/8/2002,male,AB-,1111111111,rupesh.c.mrupesh.c.m@modelschool.com
+517,SANJANA,10,A,Trial School,2/9/2002,female,A2B+,1111111111,sanjanasanjana@trialschool.com
+518,SUJIN M,10,A,Demo School,2/20/2002,male,A1B-,1111111111,sujin.m@demoschool.com
+519,SUKHADIA Z DHYANESH,10,A,Trial School,6/2/2002,male,A-,1111111111,sukhadia.z.dhyaneshsukhadia.z.dhyanesh@trialschool.com
+520,SUNDAR JEYNTH,10,A,Demo School,5/14/2002,male,O-,1111111111,sundar.jeynth@demoschool.com
+521,SUSENDARAN S,10,A,CBSE School,3/18/2002,male,AB2+,1111111111,susendaran.s@cbseschool.com
+522,ARCHANA B,10,B,CBSE School,5/9/2002,female,AB2+,1111111111,archana.b@cbseschool.com
+523,ARVIND P,10,B,Demo School,12/11/2002,male,O-,1111111111,arvind.p@demoschool.com
+524,ASHIRWADH VIJITH G,10,B,Demo School,4/8/2002,male,B-,1111111111,ashirwadh.vijith.g@demoschool.com
+525,BHUVANESWARI REVATHI,10,B,CBSE School,2/9/2002,female,A1-,1111111111,bhuvaneswari.revathi@cbseschool.com
+526,DUGGIRALA SAHAS,10,B,Trial School,4/2/2002,male,A2+,1111111111,duggirala.sahasduggirala.sahas@trialschool.com
+527,DUTTA ROHAN,10,B,Demo School,7/5/2002,male,B1-,1111111111,dutta.rohan@demoschool.com
+528,ELAKKIYA A,10,B,Demo School,5/9/2002,female,B1-,1111111111,elakkiya.a@demoschool.com
+529,GUPTA PRASHANSHA,10,B,Demo School,12/11/2002,male,B1+,1111111111,gupta.prashansha@demoschool.com
+530,GURU S C,10,B,CBSE School,4/8/2002,male,AB-,1111111111,guru.s.c@cbseschool.com
+531,HEMALATHA A,10,B,Model School,2/9/2002,female,A2B-,1111111111,hemalatha.ahemalatha.a@modelschool.com
+532,HEMANTH REDDY,10,B,Model School,4/2/2002,male,AB+,1111111111,hemanth.reddyhemanth.reddy@modelschool.com
+533,HOWARD DAVID,10,B,Trial School,7/5/2002,male,AB2+,1111111111,howard.davidhoward.david@trialschool.com
+534,HUBERT HYACINTH ANGELA,10,B,Model School,5/9/2002,male,B1+,1111111111,hubert.hyacinth.angelahubert.hyacinth.angela@modelschool.com
+535,JANANI MOHANRAJ,10,B,CBSE School,12/11/2002,female,A1+,1111111111,janani.mohanraj@cbseschool.com
+536,JANE BARRISTON,10,B,Model School,4/8/2002,female,A1B-,1111111111,jane.barristonjane.barriston@modelschool.com
+537,JOY JOSHI,10,B,Trial School,2/9/2002,female,B1-,1111111111,joy.joshijoy.joshi@trialschool.com
+538,PHANI KUMAR,10,B,Model School,2/20/2002,male,O-,1111111111,phani.kumarphani.kumar@modelschool.com
+539,PORVI FOMRA,10,B,Demo School,6/2/2002,male,A2-,1111111111,porvi.fomra@demoschool.com
+540,Sundar Ganesh,10,B,Trial School,5/14/2002,male,B2+,1111111111,sundar.ganeshsundar.ganesh@trialschool.com
+541,VARSHA RAJA,10,B,Model School,3/18/2002,female,A1B-,1111111111,varsha.rajavarsha.raja@modelschool.com
+542,DINESH,11,A,Model School,5/9/2001,male,A+,1111111111,dineshdinesh@modelschool.com
+543,GOKULAKRISHNAN D,11,A,Model School,12/11/2001,male,O-,1111111111,gokulakrishnan.dgokulakrishnan.d@modelschool.com
+544,GOLECHA NITESH,11,A,Model School,4/8/2001,male,A1B-,1111111111,golecha.niteshgolecha.nitesh@modelschool.com
+545,GOPAL GAYATRI,11,A,Trial School,2/9/2001,male,A+,1111111111,gopal.gayatrigopal.gayatri@trialschool.com
+546,GOWRI R,11,A,Demo School,4/2/2001,female,B2+,1111111111,gowri.r@demoschool.com
+547,HARSHA B Ms,11,A,Model School,7/5/2001,female,A-,1111111111,harsha.b.msharsha.b.ms@modelschool.com
+548,JANANI D,11,A,CBSE School,5/9/2001,female,AB+,1111111111,janani.d@cbseschool.com
+549,JAYAKUMAR SHILPA,11,A,CBSE School,12/11/2001,male,B+,1111111111,jayakumar.shilpa@cbseschool.com
+550,KIRTHIKAN B,11,A,Model School,4/8/2001,male,O-,1111111111,kirthikan.bkirthikan.b@modelschool.com
+551,KIRUBASHANKAR T,11,A,CBSE School,2/9/2001,male,A1+,1111111111,kirubashankar.t@cbseschool.com
+552,KIRUTHIKA R,11,A,CBSE School,4/2/2001,female,A2B-,1111111111,kiruthika.r@cbseschool.com
+553,MERHABA MOHAMMED,11,A,Model School,7/5/2001,male,A1B+,1111111111,merhaba.mohammedmerhaba.mohammed@modelschool.com
+554,MISSER O NITISHA,11,A,CBSE School,5/9/2001,male,A1+,1111111111,misser.o.nitisha@cbseschool.com
+555,MISTRY BABITA,11,A,Trial School,12/11/2001,female,AB-,1111111111,mistry.babitamistry.babita@trialschool.com
+556,MITHRA,11,A,Trial School,4/8/2001,female,AB+,1111111111,mithramithra@trialschool.com
+557,NACHAL,11,A,Model School,2/9/2001,male,AB1+,1111111111,nachalnachal@modelschool.com
+558,NADESAN SHIVANI,11,A,Demo School,2/20/2001,male,B-,1111111111,nadesan.shivani@demoschool.com
+559,PAARKAVI D,11,A,Trial School,6/2/2001,female,O-,1111111111,paarkavi.dpaarkavi.d@trialschool.com
+560,PRANAV STEVE P,11,A,Demo School,5/14/2001,male,B2+,1111111111,pranav.steve.p@demoschool.com
+561,RAAGHAV R R,11,A,Demo School,3/18/2001,male,B-,1111111111,raaghav.r.r@demoschool.com
+562,ADITYA R,11,B,Demo School,5/9/2001,male,B2+,1111111111,aditya.r@demoschool.com
+563,KISHORE K,11,B,Trial School,12/11/2001,male,O-,1111111111,kishore.kkishore.k@trialschool.com
+564,KOTHARI R CHIRAG,11,B,Trial School,4/8/2001,female,A+,1111111111,kothari.r.chiragkothari.r.chirag@trialschool.com
+565,KOTHARI S DIXITHA,11,B,Demo School,2/9/2001,female,AB1+,1111111111,kothari.s.dixitha@demoschool.com
+566,KR NACHIAPPAN,11,B,CBSE School,4/2/2001,male,B2+,1111111111,kr.nachiappan@cbseschool.com
+567,NAG PROBAL,11,B,Demo School,7/5/2001,male,B2+,1111111111,nag.probal@demoschool.com
+568,PRAJIT E,11,B,Demo School,5/9/2001,male,AB+,1111111111,prajit.e@demoschool.com
+569,PRAKASH ADITI,11,B,Model School,12/11/2001,male,A1+,1111111111,prakash.aditiprakash.aditi@modelschool.com
+570,RAAJAN AADITHIYA G,11,B,CBSE School,4/8/2001,male,A2-,1111111111,raajan.aadithiya.g@cbseschool.com
+571,RAAM VINODH M,11,B,Demo School,2/9/2001,male,A1B+,1111111111,raam.vinodh.m@demoschool.com
+572,RAGHURAM S,11,B,Trial School,4/2/2001,male,O-,1111111111,raghuram.sraghuram.s@trialschool.com
+573,SAKTHI A,11,B,Demo School,7/5/2001,female,B-,1111111111,sakthi.a@demoschool.com
+574,SOWMYA S,11,B,Model School,5/9/2001,female,B+,1111111111,sowmya.ssowmya.s@modelschool.com
+575,SOWMYA V,11,B,Trial School,12/11/2001,female,B2+,1111111111,sowmya.vsowmya.v@trialschool.com
+576,SPATIKA K,11,B,Demo School,4/8/2001,female,O-,1111111111,spatika.k@demoschool.com
+577,SPOORTHI,11,B,Trial School,2/9/2001,female,B1-,1111111111,spoorthispoorthi@trialschool.com
+578,SRAVANI KUDALA,11,B,Trial School,2/20/2001,male,A+,1111111111,sravani.kudalasravani.kudala@trialschool.com
+579,SREEKAR S,11,B,Trial School,6/2/2001,male,B+,1111111111,sreekar.ssreekar.s@trialschool.com
+580,ZEENATH,11,B,Demo School,5/14/2001,male,B1+,1111111111,zeenath@demoschool.com
+581,RAAGHAV R R,11,B,Demo School,3/18/2001,male,A2-,1111111111,raaghav.r.r@demoschool.com
+582,VIJITH G,12,A,CBSE School,5/9/2000,male,B+,1111111111,vijith.g@cbseschool.com
+583,ADITYA RAJU GANAPATHI,12,A,Demo School,12/11/2000,male,B+,1111111111,aditya.raju.ganapathi@demoschool.com
+584,MOHAMMED,12,A,Demo School,4/8/2000,male,B2+,1111111111,mohammed@demoschool.com
+585,AG ABISHEK,12,A,CBSE School,2/9/2000,male,B1+,1111111111,ag.abishek@cbseschool.com
+586,AGRAWAL PARUL,12,A,Demo School,4/2/2000,male,O-,1111111111,agrawal.parul@demoschool.com
+587,ANNAMALAI VISHWANATH M,12,A,Demo School,7/5/2000,male,B1+,1111111111,annamalai.vishwanath.m@demoschool.com
+588,ARCHITA S,12,A,CBSE School,5/9/2000,female,AB+,1111111111,archita.s@cbseschool.com
+589,ARJUNASARATHY M,12,A,CBSE School,12/11/2000,male,B2+,1111111111,arjunasarathy.m@cbseschool.com
+590,ASHIRWADH M,12,A,Model School,4/8/2000,male,B1+,1111111111,ashirwadh.mashirwadh.m@modelschool.com
+591,BHUVANESWARI REVATHI,12,A,Trial School,2/9/2000,female,A-,1111111111,bhuvaneswari.revathibhuvaneswari.revathi@trialschool.com
+592,BINDHU J,12,A,Model School,4/2/2000,female,A2B-,1111111111,bindhu.jbindhu.j@modelschool.com
+593,CHARANYA MOHAN P,12,A,Trial School,7/5/2000,female,A2B+,1111111111,charanya.mohan.pcharanya.mohan.p@trialschool.com
+594,GARAVIND S,12,A,Demo School,5/9/2000,male,A-,1111111111,garavind.s@demoschool.com
+595,KALPANA REJINA,12,A,Trial School,12/11/2000,female,A2B+,1111111111,kalpana.rejinakalpana.rejina@trialschool.com
+596,KAREENA K,12,A,Demo School,4/8/2000,female,AB2+,1111111111,kareena.k@demoschool.com
+597,LAVANYA N,12,A,Trial School,2/9/2000,female,B1-,1111111111,lavanya.nlavanya.n@trialschool.com
+598,MALINI S,12,A,Demo School,2/20/2000,female,A1+,1111111111,malini.s@demoschool.com
+599,NARCHANA B,12,A,Trial School,6/2/2000,female,A1-,1111111111,narchana.bnarchana.b@trialschool.com
+600,NIKHIL GAEKWAD G,12,A,CBSE School,5/14/2000,male,B-,1111111111,nikhil.gaekwad.g@cbseschool.com
+601,ZUBBIN KALI,12,A,CBSE School,3/18/2000,male,A2B+,1111111111,zubbin.kali@cbseschool.com
+602,AANCHAL GUPTA,12,B,Demo School,5/9/2000,male,A1B+,1111111111,aanchal.gupta@demoschool.com
+603,AHAD KHAN,12,B,Model School,12/11/2000,male,A2+,1111111111,ahad.khanahad.khan@modelschool.com
+604,AISHWARYA A,12,B,Demo School,4/8/2000,female,AB1+,1111111111,aishwarya.a@demoschool.com
+605,AJAYSESHATTHRI V G,12,B,Model School,2/9/2000,male,B1-,1111111111,ajayseshatthri.v.gajayseshatthri.v.g@modelschool.com
+606,AJITH S T,12,B,Model School,4/2/2000,male,A2B-,1111111111,ajith.s.tajith.s.t@modelschool.com
+607,AKANKSHA MALHOTRA,12,B,Demo School,7/5/2000,female,A2B-,1111111111,akanksha.malhotra@demoschool.com
+608,ANJAN CHIDAMBARAM,12,B,Demo School,5/9/2000,male,O-,1111111111,anjan.chidambaram@demoschool.com
+609,ANJU KURIAN,12,B,CBSE School,12/11/2000,female,A1B-,1111111111,anju.kurian@cbseschool.com
+610,BALIK MAASHA,12,B,CBSE School,4/8/2000,male,A+,1111111111,balik.maasha@cbseschool.com
+611,CHANDRA GUPTA,12,B,Model School,2/9/2000,male,AB+,1111111111,chandra.guptachandra.gupta@modelschool.com
+612,DINAKARAN G,12,B,Model School,4/2/2000,male,B2+,1111111111,dinakaran.gdinakaran.g@modelschool.com
+613,EESHA P,12,B,Trial School,7/5/2000,female,A1B-,1111111111,eesha.peesha.p@trialschool.com
+614,JENNY VIJAY,12,B,Trial School,5/9/2000,male,AB1+,1111111111,jenny.vijayjenny.vijay@trialschool.com
+615,KURUSHI MEHTA,12,B,Trial School,12/11/2000,female,B1+,1111111111,kurushi.mehtakurushi.mehta@trialschool.com
+616,MANVIK DESAI,12,B,CBSE School,4/8/2000,male,A2-,1111111111,manvik.desai@cbseschool.com
+617,MORGAN JP,12,B,Model School,2/9/2000,male,AB2+,1111111111,morgan.jpmorgan.jp@modelschool.com
+618,NEHA RAJAN K,12,B,Model School,2/20/2000,male,A2B+,1111111111,neha.rajan.kneha.rajan.k@modelschool.com
+619,NIRANJAN N,12,B,CBSE School,6/2/2000,male,A1+,1111111111,niranjan.n@cbseschool.com
+620,PRAFUL B,12,B,Model School,5/14/2000,male,A1-,1111111111,praful.bpraful.b@modelschool.com
+621,VIDHI BISANI,12,B,Model School,3/18/2000,female,B+,1111111111,vidhi.bisanividhi.bisani@modelschool.com
