@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<style>
+		
+		body{
+	width:1336px;
+	height:622px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #4682B4;
+	border-radius:5px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: white;
+    color: #4682B4;
+	position:relative;
+	top:50px;
+    padding: 10px 20px;
+	margin-top:10px;
+    border: 2px solid #DAA520;
+	border-radius:5px;
+    cursor: pointer;
+    font-family: serif;
+
+}
+.button1 {
+    background-color: white;
+    color: #4682B4;
+    padding-left: 25px 12px;
+    margin: 15px 13px;
+    border: 2px solid #DAA520;
+	border-radius:5px;
+    cursor: pointer;
+    width: 50%;
+	height:50%;
+    font-style:italic;
+	font-size:19px;
+    font-weight:3px;
+	font-family: serif;
+    
+   
+    
+    
+    
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+img.avatar {
+    width: 50%;
+    border-radius: 45%;
+}
+
+img.logoicon {
+    width: 15%;
+	margin: 100px 570px 0px 570px;
+}
+ .h{
+    color: #4682B4;
+	position:relative;
+	top:20px;
+} 
+.head{
+	color: #4682B4; 
+    font-size:15px; 
+	position:relative;
+	top:30px;
+}
+
+
+.container {
+    padding: 10px;
+   
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgba(0,0,0,0.4); 
+    padding-top: 60px;
+}
+
+.modal-content {
+    background-color:white;
+    border: 3px solid #DAA520;
+	border-style: dashed;
+	margin:auto;
+    width: 300px;
+    height: 500px;
+}
+
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: red;
+    font-size: 35px;
+    font-weight: bold;
+} 
+.close:focus {
+    color: red;
+    cursor: pointer;
+}
+.button1:hover{
+        background-color:white;
+        color:#DAA520;
+		border:2px solid #DAA520;
+		}
+		.button:hover{
+        background-color:white;
+        color:#DAA520;
+		border:2px solid #DAA520;
+		}
+.animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)} 
+    to {-webkit-transform: scale(1)}
+}
+    
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+    @media screen and (max-width: 400px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+ 
+}
+		
+		</style>
+		
+	</head>
+	<body>
+		<center>
+			<span> <img src="logo.png" alt="logoicon" class="logoicon"></span>
+			<label class="h"><b><i>REPORT BEE - ASSIGNMENT</b></i></label>
+			<br>
+			<button class="button"onclick="document.getElementById('id01').style.display='block'" style="width:auto;"><i><b>WELCOME</b></i></button>
+		</center>
+		<div id="id01" class="modal">
+		
+			<form class="modal-content animate" action="login_page.php" method="post">
+			
+				<div class="imgcontainer">
+					<span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+					<img src="logo.png" alt="Avatar" class="avatar">
+				</div>  
+				<div class="container">
+					<label style="color:#DAA520"><b><i>Email</b></i></label>
+					<input  style="color:#4682B4" type="text" placeholder="Enter Email" name="email" required>
+					<label style="color:#DAA520"><b><i>Password</b><i></label>
+					<input  type="password"  style="color:#4682B4" placeholder="Enter Password" name="password" required>
+				<center><input  class="button1" type="submit" name="submit"  value="Let Me In" ></center>
+					<br>
+					<div>
+						<center> <label><b><a href='register.php'>SIGN UP</b> </a></label> </center>
+					</div>
+				</div>
+			</form>
+		</div>
+		<script>
+			var modal = document.getElementById('id01');
+			window.onclick = function(event) {
+				if (event.target == modal) {
+					modal.style.display = "none";
+				}
+			}
+		</script>
+	</body>
+</html>
