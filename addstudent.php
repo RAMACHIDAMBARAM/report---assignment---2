@@ -10,23 +10,14 @@ $section=$_POST['section'];
 $password=$_POST['password'];
 $gender=$_POST['gender']; 
 $email=$_POST['email'];
-$QUERY = mysql_list_tables('phase3_reportbee');
-while($school_name =  mysql_fetch_row($QUERY))
-{
-  $Result = $school_name[0];
-  $result = mysql_query("select * from `".$Result."` where email = '" . $_SESSION["email"]."'");
-  $count=@mysql_num_rows($result);
-  if($count == 1)
-  {
+$school_name=$_POST['school_name'];
 
-						$query =  mysql_query("INSERT INTO `".$Result."` (`name`, `standard`, `section`,
+						$query =  mysql_query("INSERT INTO `".$school_name."` (`name`, `school_name`, `standard`, `section`,
 								 `password`, `gender`, `email`) 
-								  VALUES ('$name', '$standard', '$section', '$password', '$gender', '$email')");
+								  VALUES ('$name', '$school_name','$standard', '$section', '$password', '$gender', '$email')");
 			
 							echo "<script language = \"javascript\">alert('Submitted Sucessfully.')</script>";
 							echo "<script>setTimeout(\"location.href = 'http://localhost/phase-3ReportBee/adminpannel.php';\");</script>";
 					}		
-					}
-					}
 				
 				?>
