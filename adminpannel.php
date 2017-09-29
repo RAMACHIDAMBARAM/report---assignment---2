@@ -129,7 +129,7 @@
 	<body>
 		<div class="navbar">
 			<ul> 
-				<li><a href="all.php"> View All Students</a></li>
+				<li><a href="view.php"> View All Students</a></li>
 				<li><a href="Form.php">Form</a></li>
 				<li><a href="#">Add Data</a></li>
 				<li><a  href="logout.php">LOGOUT</a></li>
