@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+ 	<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -64,11 +64,16 @@ while($school_name =  mysql_fetch_row($QUERY))
 
  }
  }
- $sql = mysql_query("SELECT * FROM `".$i."` ");
+$query = mysql_query("SELECT `standard` FROM `".$i."` where email = '" . $_SESSION["email"]."'  ");
+while($row = mysql_fetch_array($query)){
+	 $w=$row['standard'];
+}
+
+ $sql = mysql_query("SELECT * FROM `".$i."` where standard = '".$w."' ");
 echo "<table border='1'>
 <tr>
 <th>NAME</th>
-<th>SCHOOL NAME</th>
+<th>STANDARD </th>
 <th>SECTION </th>
 <th>ROLL NO</th>
 <th>GENDER</th>
@@ -80,7 +85,7 @@ while($row = mysql_fetch_array($sql))
   {
   echo "<tr>";
 					echo "<td>" . $row['name'] . "</td>";
-					echo "<td>" . $row['school_name'] . "</td>";
+					echo "<td>" . $row['standard'] . "</td>";
 					echo "<td>" . $row['section'] . "</td>";
 					echo "<td>" . $row['id'] . "</td>";
 					echo "<td>" . $row['gender'] . "</td>";
@@ -89,8 +94,7 @@ while($row = mysql_fetch_array($sql))
 
 	echo "</tr>";
   }
-echo "</table>";
- 
+echo "</table>"
 ?>
 <br>
 <br>
