@@ -73,7 +73,6 @@ echo "<table border='1'>
 <th>STANDARD </th>
 <th>ROLL NO</th>
 <th>GENDER</th>
-<th>PASSWORD</th>
 <th>EMAIL</th>
 </tr>";
  
@@ -86,8 +85,7 @@ while($row = mysql_fetch_array($sql))
 					echo "<td>" . $row['standard'] . "</td>";
 					echo "<td>" . $row['id'] . "</td>";
 					echo "<td>" . $row['gender'] . "</td>";
-					echo "<td>" . $row['password'] . "</td>";
-				    echo "<td>" . $row['email'] . "</td>";
+				        echo "<td>" . $row['email'] . "</td>";
 
 	echo "</tr>";
   }
