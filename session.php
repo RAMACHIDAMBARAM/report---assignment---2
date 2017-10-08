@@ -1,6 +1,6 @@
 <?php
    @include 'config.php';
-   @include 'login_page';
+   @include 'login_page.php';
    session_start();
    
    $email = $_SESSION['email'];
